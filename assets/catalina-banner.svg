@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Catalina — at the desk</title>
+  <desc id="desc">An ivory Catalina wordmark on navy, with muted blue line art of an open book and desk lamp, and one lilac flower.</desc>
+  <rect width="1200" height="300" rx="16" fill="#172338"/>
+  <rect x="18" y="18" width="1164" height="264" rx="8" fill="none" stroke="#60728e" stroke-opacity=".5"/>
+  <path d="M58 70h58M58 70v34M1142 230h-58M1142 230v-34" fill="none" stroke="#b6afd2" stroke-width="2"/>
+  <text x="82" y="145" fill="#f4efe3" font-family="Georgia, 'Times New Roman', serif" font-size="66" letter-spacing="2">Catalina</text>
+  <path d="M85 169h390" stroke="#809bb9"/>
+  <text x="85" y="204" fill="#bbc9dc" font-family="Verdana, Arial, sans-serif" font-size="17" letter-spacing="3">SYSTEMS, TOOLS &amp; CURIOSITY</text>
+  <g fill="none" stroke="#91a8c5" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M713 230h365M760 212v-72q43-13 86 9 43-22 86-9v72q-43-13-86 9-43-22-86-9Z"/>
+    <path d="M846 149v72M774 156q29-5 57 7M774 172q29-5 57 7M861 163q28-12 57-7M861 179q28-12 57-7" stroke-opacity=".6"/>
+    <path d="M1001 230v-81l-51-45M946 100l17-20 40 36-17 20ZM974 230h54"/>
+    <path d="m951 133-18 37m34-28-9 38" stroke-opacity=".35"/>
+    <path d="M1057 229v-38m0 26q-15 0-19-11 14-3 19 11"/>
+  </g>
+  <g transform="translate(1057 181)" fill="#b6afd2">
+    <ellipse cy="-9" rx="5" ry="9"/>
+    <ellipse cy="-9" rx="5" ry="9" transform="rotate(72)"/>
+    <ellipse cy="-9" rx="5" ry="9" transform="rotate(144)"/>
+    <ellipse cy="-9" rx="5" ry="9" transform="rotate(216)"/>
+    <ellipse cy="-9" rx="5" ry="9" transform="rotate(288)"/>
+    <circle r="3.5" fill="#f4efe3"/>
+  </g>
+</svg>
